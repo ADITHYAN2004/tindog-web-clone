@@ -1,1 +1,1 @@
-# tindog-web-clone
+TinDog Starting Files
